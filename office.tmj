@@ -855,8 +855,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":31,
          "firstgid":2956,
-         "source":"..\/..\/..\/Downloads\/pixil-frame-0 (1).tsx"
+         "image":"..\/..\/..\/Downloads\/pixil-frame-0 (1).png",
+         "imageheight":707,
+         "imagewidth":1000,
+         "margin":0,
+         "name":"pixil-frame-0 (1)",
+         "spacing":0,
+         "tilecount":682,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
